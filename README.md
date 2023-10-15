@@ -1,2 +1,2 @@
-Personalized movie library using react and API
+Personalized movie library using react and API.
 
